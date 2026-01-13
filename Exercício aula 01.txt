@@ -1,0 +1,82 @@
+Faça um algoritmo para lavar roupas utilizando uma máquina de lavar.
+
+1. Separar as roupas.
+	. Roupas coloridas
+	. Roupas Pretas
+	. Mais sujas
+	. Verificar se tem algo nos bolso
+2. Abri a máquina de lavar e colocar as roupas.
+	. Colocar sabão em pó no recipiente.
+	. Colocar detergente no recipiente.
+3. Ligar a máquina de lavar.
+	. Escolher a função de lavagem ideal.
+	. Aguardar o ciclo de lavagem da máquina.	
+4. Abrir a porta da máquina e retirar as roupas.
+	. Estender as roupas no varal ou colocar na secadora
+5. Fim
+
+
+Faça um algoritmo para carregar o celular utilizando cabo e tomada.
+
+1. Pegar o carregador.
+	. Verificar se o carregador corresponde a modelo do celular.
+	. Verificar se o carregador está totalmente descarregado.
+2. Conectar o carregador a tomada.
+	. Verificar se a tomada é 220 e 110.
+3. Conetar o celular na outra extremidade. 	 
+	. Aguardar o carregamento do celular.
+4. Desconetar o celular do carregador.
+	. Desconectar o carregador da tomada.
+	. Guardar o carregador.
+5. Ligar o celudar.
+6. Fim
+
+Faça um algoritmo para abrir o YouTube, pesquisar um vídeo e assisti-lo.
+
+1. Ligar o Dispositivo.
+	. Notebook 
+	. Celular APP
+2. Acessar o novegador
+	. Digitar a url do youtube
+	. Digitar no campo de pesquisa o nome do vídeo.
+	. Escolher o vídeo
+	
+3. Play no vídeo.
+
+
+Faça um algoritmo para realizar uma ligação usando um celular.
+1. Pegar o celular.
+	. Destravar o celular.
+2. Acessar o a funcionalidade do celular/APP telefone
+	. Ir na função teclado.
+	. Digitar o numero do telefone.
+3. Discar.
+	. Aguardar o receptor.
+	. Mensagem.
+	. Desligar.
+4. Fim
+
+
+Faça um algoritmo descrevendo como atravessar a rua usando a faixa de pedestres
+1. Encontrar a faixa de pedestre.
+2. Parar na calçada antes de entrar na faixa.
+3. Verificar se existe semáforo para pedestre.
+4. Ficar atendo.
+	. Olhar para o lado direito. 
+	. Olhar para o lado esquerdo.
+5. Verificar se os carros estão parando realmente.
+	. Verificar se estao em uma distância segura.
+6. Atravessar em cima da faixa.
+	. Ficar atendo durante a travessia.
+7. Chegar do outro lado da calçada com segurança.
+8.Fim
+
+
+
+
+
+
+
+
+
+Faça um algoritmo para fritar um ovo em uma frigideira utilizando óleo e fogão.
